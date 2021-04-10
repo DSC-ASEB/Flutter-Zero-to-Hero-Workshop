@@ -13,4 +13,8 @@ Learners will get to understand the basics of Flutter and try to apply the skill
  - Run the App in your emulator/ phone (emulators may not show the location correctly)
 
 
-Workshop conducted by @vinayaksankeet99 &  [@PranavRNambiar](https://github.com/PranavRNambiar)
+Workshop conducted by 
+  [vinayaksankeet99
+](https://github.com/vinayaksankeet99)
+  [@PranavRNambiar](https://github.com/PranavRNambiar)
+  
