@@ -6,6 +6,7 @@ Learners will get to understand the basics of Flutter and try to apply the skill
 
 - Day 1: https://dsc.community.dev/e/myekm5/
 - Day 2: https://dsc.community.dev/e/mvr69y/
+- Day 3: https://dsc.community.dev/e/mg26yn/
 
 ## How to
  - Clone repository.
