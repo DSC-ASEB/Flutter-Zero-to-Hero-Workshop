@@ -8,13 +8,11 @@ Learners will get to understand the basics of Flutter and try to apply the skill
 - Day 2: https://dsc.community.dev/e/mvr69y/
 
 ## How to
- - Run 'flutter pub get' in the Vscode terminal before running the app 
+ - Clone repository.
+ - Run `flutter pub get` in the Vscode terminal before running the app 
  - Make sure your AndroidManifest.xml has ACCESS_COARSE_LOCATION and ACCESS_FINE_LOCATION permissions. 
  - Run the App in your emulator/ phone (emulators may not show the location correctly)
 
 
-Workshop conducted by 
-  [vinayaksankeet99
-](https://github.com/vinayaksankeet99) &
-  [@PranavRNambiar](https://github.com/PranavRNambiar)
+Workshop conducted by [@vinayaksankeet99](https://github.com/vinayaksankeet99) & [@PranavRNambiar](https://github.com/PranavRNambiar)
   
