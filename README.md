@@ -15,6 +15,6 @@ Learners will get to understand the basics of Flutter and try to apply the skill
 
 Workshop conducted by 
   [vinayaksankeet99
-](https://github.com/vinayaksankeet99)
+](https://github.com/vinayaksankeet99) &
   [@PranavRNambiar](https://github.com/PranavRNambiar)
   
